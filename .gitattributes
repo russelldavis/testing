@@ -1,0 +1,2 @@
+lib/build/**/* linguist-vendored
+lib/build/**/* merge=union
